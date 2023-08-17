@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>09/04/2023</DataEmissao>
+<NotaFiscal>18163</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>66334</CodCliente>
+<TotalNotaFiscal>232,51</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,4</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>10/04/2023</DataColeta>
+<DataEntrega>12/04/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

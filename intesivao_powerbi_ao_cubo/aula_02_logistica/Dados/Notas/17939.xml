@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/03/2023</DataEmissao>
+<NotaFiscal>17939</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66399</CodCliente>
+<TotalNotaFiscal>2240,71</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>11,4</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>04/03/2023</DataColeta>
+<DataEntrega>09/03/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

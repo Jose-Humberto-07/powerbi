@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/02/2023</DataEmissao>
+<NotaFiscal>17875</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Bauru</CidadeDestino>
+<CodCliente>66214</CodCliente>
+<TotalNotaFiscal>6563,9</TotalNotaFiscal>
+<Volumes>6</Volumes>
+<PesoBruto>10,01</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>15/02/2023</DataColeta>
+<DataEntrega>25/02/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

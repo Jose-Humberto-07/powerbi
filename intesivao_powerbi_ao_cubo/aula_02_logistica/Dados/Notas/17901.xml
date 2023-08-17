@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>19/02/2023</DataEmissao>
+<NotaFiscal>17901</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66396</CodCliente>
+<TotalNotaFiscal>1352,41</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>16,1</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>19/02/2023</DataColeta>
+<DataEntrega>22/02/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

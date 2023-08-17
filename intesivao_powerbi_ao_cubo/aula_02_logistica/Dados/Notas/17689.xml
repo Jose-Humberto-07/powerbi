@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>10/01/2023</DataEmissao>
+<NotaFiscal>17689</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Itajai</CidadeDestino>
+<CodCliente>66371</CodCliente>
+<TotalNotaFiscal>311,21</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,8</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>11/01/2023</DataColeta>
+<DataEntrega>14/01/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

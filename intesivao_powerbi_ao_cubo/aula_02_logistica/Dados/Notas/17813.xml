@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/02/2023</DataEmissao>
+<NotaFiscal>17813</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Londrina</CidadeDestino>
+<CodCliente>66377</CodCliente>
+<TotalNotaFiscal>1223,92</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>2,67</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>05/02/2023</DataColeta>
+<DataEntrega>11/02/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

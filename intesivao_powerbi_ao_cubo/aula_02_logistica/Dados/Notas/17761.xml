@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>28/01/2023</DataEmissao>
+<NotaFiscal>17761</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66363</CodCliente>
+<TotalNotaFiscal>3664,37</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>15,66</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>29/01/2023</DataColeta>
+<DataEntrega>05/02/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

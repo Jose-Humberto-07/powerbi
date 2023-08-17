@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>02/04/2023</DataEmissao>
+<NotaFiscal>18094</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Blumenau</CidadeDestino>
+<CodCliente>66355</CodCliente>
+<TotalNotaFiscal>2135,75</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>37,96</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>3</PrazoContratado>
+<DataColeta>02/04/2023</DataColeta>
+<DataEntrega>03/04/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

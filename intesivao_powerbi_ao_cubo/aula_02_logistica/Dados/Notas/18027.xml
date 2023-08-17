@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>19/03/2023</DataEmissao>
+<NotaFiscal>18027</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66366</CodCliente>
+<TotalNotaFiscal>13707,2</TotalNotaFiscal>
+<Volumes>12</Volumes>
+<PesoBruto>51,4</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>19/03/2023</DataColeta>
+<DataEntrega>26/03/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

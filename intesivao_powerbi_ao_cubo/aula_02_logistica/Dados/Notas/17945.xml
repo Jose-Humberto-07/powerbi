@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/03/2023</DataEmissao>
+<NotaFiscal>17945</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66404</CodCliente>
+<TotalNotaFiscal>1215,76</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>2,36</PesoBruto>
+<CodTransportadora>910047</CodTransportadora>
+<Transportadora>Rio Express</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>04/03/2023</DataColeta>
+<DataEntrega>05/03/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

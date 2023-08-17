@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>18/03/2023</DataEmissao>
+<NotaFiscal>18018</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66243</CodCliente>
+<TotalNotaFiscal>346,68</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>9,918</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>18/03/2023</DataColeta>
+<DataEntrega>20/03/2023</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

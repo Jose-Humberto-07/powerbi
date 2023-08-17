@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>03/04/2023</DataEmissao>
+<NotaFiscal>18106</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66425</CodCliente>
+<TotalNotaFiscal>895,45</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,29</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>03/04/2023</DataColeta>
+<DataEntrega>13/04/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

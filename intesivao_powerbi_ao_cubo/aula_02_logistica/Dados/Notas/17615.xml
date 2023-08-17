@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>19/12/2022</DataEmissao>
+<NotaFiscal>17615</NotaFiscal>
+<Warehouse>WHBHZ</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Bauru</CidadeDestino>
+<CodCliente>66214</CodCliente>
+<TotalNotaFiscal>50,06</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,5</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>19/12/2022</DataColeta>
+<DataEntrega>28/12/2022</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

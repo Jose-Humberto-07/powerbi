@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/02/2023</DataEmissao>
+<NotaFiscal>17878</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66216</CodCliente>
+<TotalNotaFiscal>2573,76</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,109</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>15/02/2023</DataColeta>
+<DataEntrega>19/02/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

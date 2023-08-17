@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>11/07/2022</DataEmissao>
+<NotaFiscal>17075</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66230</CodCliente>
+<TotalNotaFiscal>2323,69</TotalNotaFiscal>
+<Volumes>9</Volumes>
+<PesoBruto>81,93</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>12/07/2022</DataColeta>
+<DataEntrega>16/07/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

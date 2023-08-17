@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/03/2023</DataEmissao>
+<NotaFiscal>17940</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66400</CodCliente>
+<TotalNotaFiscal>59,05</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,331</PesoBruto>
+<CodTransportadora>970077</CodTransportadora>
+<Transportadora>RodoLopes</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>04/03/2023</DataColeta>
+<DataEntrega>06/03/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

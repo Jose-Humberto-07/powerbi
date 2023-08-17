@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>14/11/2022</DataEmissao>
+<NotaFiscal>17482</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>66235</CodCliente>
+<TotalNotaFiscal>11806,36</TotalNotaFiscal>
+<Volumes>11</Volumes>
+<PesoBruto>157,93</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>14/11/2022</DataColeta>
+<DataEntrega>17/11/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

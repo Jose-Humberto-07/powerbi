@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>19/11/2022</DataEmissao>
+<NotaFiscal>17499</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>66356</CodCliente>
+<TotalNotaFiscal>1722,87</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>16,2</PesoBruto>
+<CodTransportadora>990099</CodTransportadora>
+<Transportadora>Cargas 3em1</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>19/11/2022</DataColeta>
+<DataEntrega>26/11/2022</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>08/07/2022</DataEmissao>
+<NotaFiscal>17055</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>66248</CodCliente>
+<TotalNotaFiscal>389,31</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,325</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>09/07/2022</DataColeta>
+<DataEntrega>15/07/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/10/2022</DataEmissao>
+<NotaFiscal>17342</NotaFiscal>
+<Warehouse>WHRIO</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66246</CodCliente>
+<TotalNotaFiscal>1209,5</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>9,44</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>04/10/2022</DataColeta>
+<DataEntrega>14/10/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

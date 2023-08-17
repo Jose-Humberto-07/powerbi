@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>03/09/2022</DataEmissao>
+<NotaFiscal>17251</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66246</CodCliente>
+<TotalNotaFiscal>2937,02</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>13</PesoBruto>
+<CodTransportadora>960019</CodTransportadora>
+<Transportadora>Minaspress</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>04/09/2022</DataColeta>
+<DataEntrega>08/09/2022</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>04/09/2022</DataEmissao>
+<NotaFiscal>17261</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>66243</CodCliente>
+<TotalNotaFiscal>1048,31</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,166</PesoBruto>
+<CodTransportadora>910033</CodTransportadora>
+<Transportadora>Cargo Amaral</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>05/09/2022</DataColeta>
+<DataEntrega>11/09/2022</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

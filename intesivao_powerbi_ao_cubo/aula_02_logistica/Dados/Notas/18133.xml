@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>05/04/2023</DataEmissao>
+<NotaFiscal>18133</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sao Jose Dos Pinhais</CidadeDestino>
+<CodCliente>66410</CodCliente>
+<TotalNotaFiscal>556,98</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>29,59</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>05/04/2023</DataColeta>
+<DataEntrega>07/04/2023</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</nfe>

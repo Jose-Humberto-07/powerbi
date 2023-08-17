@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>06/02/2023</DataEmissao>
+<NotaFiscal>17826</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66219</CodCliente>
+<TotalNotaFiscal>2981,56</TotalNotaFiscal>
+<Volumes>9</Volumes>
+<PesoBruto>6,75</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>06/02/2023</DataColeta>
+<DataEntrega>16/02/2023</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>

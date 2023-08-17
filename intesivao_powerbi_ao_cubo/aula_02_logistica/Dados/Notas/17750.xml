@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>24/01/2023</DataEmissao>
+<NotaFiscal>17750</NotaFiscal>
+<Warehouse>WHVIX</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>66285</CodCliente>
+<TotalNotaFiscal>7646,4</TotalNotaFiscal>
+<Volumes>48</Volumes>
+<PesoBruto>200,6</PesoBruto>
+<CodTransportadora>940021</CodTransportadora>
+<Transportadora>Sampa Fretes</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>25/01/2023</DataColeta>
+<DataEntrega>28/01/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

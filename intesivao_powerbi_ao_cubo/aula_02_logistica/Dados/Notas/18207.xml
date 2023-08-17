@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>18/04/2023</DataEmissao>
+<NotaFiscal>18207</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>66347</CodCliente>
+<TotalNotaFiscal>10177,96</TotalNotaFiscal>
+<Volumes>4</Volumes>
+<PesoBruto>36,7</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>18/04/2023</DataColeta>
+<DataEntrega>26/04/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

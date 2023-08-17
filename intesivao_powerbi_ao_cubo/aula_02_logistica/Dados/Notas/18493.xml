@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>17/06/2023</DataEmissao>
+<NotaFiscal>18493</NotaFiscal>
+<Warehouse>WHVCP</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>66225</CodCliente>
+<TotalNotaFiscal>4957,91</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>49,005</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>18/06/2023</DataColeta>
+<DataEntrega>27/06/2023</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</nfe>

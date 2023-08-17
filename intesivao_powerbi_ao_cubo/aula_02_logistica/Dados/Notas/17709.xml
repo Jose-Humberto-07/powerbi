@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nfe>
+<DataEmissao>15/01/2023</DataEmissao>
+<NotaFiscal>17709</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Bauru</CidadeDestino>
+<CodCliente>66214</CodCliente>
+<TotalNotaFiscal>2804,49</TotalNotaFiscal>
+<Volumes>7</Volumes>
+<PesoBruto>4</PesoBruto>
+<CodTransportadora>950015</CodTransportadora>
+<Transportadora>PagLog</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>15/01/2023</DataColeta>
+<DataEntrega>22/01/2023</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</nfe>
